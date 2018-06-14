@@ -65,7 +65,7 @@ import static com.alibaba.dubbo.common.utils.NetUtils.isInvalidPort;
 /**
  * ServiceConfig
  *
- * 服务提供者暴露服务配置1。
+ * 服务提供者暴露服务配置1b。
  * 参数详细：http://dubbo.io/books/dubbo-user-book/references/xml/dubbo-service.html
  *
  * @export
